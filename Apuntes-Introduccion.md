@@ -47,3 +47,4 @@ Voy a poner monitorizar el código para saber si algo se rompe.
 
 Puedo ver el rendimiento de mi cpu
 Con: pm2 stop + id —> me detiene el proceso que está en ejecución con ese ID.
+
